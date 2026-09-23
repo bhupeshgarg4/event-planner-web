@@ -8,7 +8,6 @@ const links = [
   { href: "#reel", label: "Reel" },
   { href: "#categories", label: "Events" },
   { href: "#calendar", label: "Calendar" },
-  { href: "#booking", label: "Book" },
 ];
 
 export function Nav() {
