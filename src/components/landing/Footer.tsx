@@ -2,7 +2,7 @@ import { Instagram, Youtube, Linkedin, MessageCircle, Mail, Mic } from "lucide-r
 
 const socials = [
   { Icon: Instagram, href: "https://www.instagram.com/anchorgarv_official?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==", label: "Instagram" },
-  { Icon: Youtube, href: "www.youtube.com/@garvdhingra1477", label: "YouTube" },
+  { Icon: Youtube, href: "https://youtube.com/@garvdhingra1477?si=lOHL2TaYe-tgA4ST", label: "YouTube" },
   { Icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
 ];
 
