@@ -59,15 +59,7 @@ const reels: ReelItem[] = [
     category: "crowd",
     desc: "Hyping up thousands in stadiums, marathons, and massive sports fan festivals.",
   },
-  {
-    id: "banter",
-    src: "/reels/funwith-brother.mp4",
-    fallbackSrc: "/funwith-brother.mp4",
-    title: "Interactive Banter",
-    tag: "Audience Banter",
-    category: "weddings",
-    desc: "Warm, witty, unscripted engagement that brings the entire room together.",
-  },
+ 
 ];
 
 const categories = [
