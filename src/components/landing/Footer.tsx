@@ -2,7 +2,7 @@ import { Instagram, Youtube, Linkedin, MessageCircle, Mail, Mic } from "lucide-r
 
 const socials = [
   { Icon: Instagram, href: "https://www.instagram.com/anchorgarv_official?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==", label: "Instagram" },
-  { Icon: Youtube, href: "https://youtube.com", label: "YouTube" },
+  { Icon: Youtube, href: "www.youtube.com/@garvdhingra1477", label: "YouTube" },
   { Icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
 ];
 
@@ -65,7 +65,7 @@ export function Footer() {
           <div className="text-[10px] uppercase tracking-[0.4em] text-gold mb-5">Contact</div>
           <ul className="space-y-3 text-sm text-white/65">
             <li className="flex items-center gap-2">
-              <Mail className="h-4 w-4 text-gold" /> your@email.com
+              <Mail className="h-4 w-4 text-gold" /> garvdhingra1477@email.com
             </li>
             <li className="flex items-center gap-2">
               <MessageCircle className="h-4 w-4 text-gold" /> +91 89551 82955
